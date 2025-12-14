@@ -5,4 +5,5 @@ hexbin_ratio_conditioned_density (1)
 names.txt
 names2.txt
 .ipynb_checkpoints
-.streamlit/secrets.toml.
+.streamlit/secrets.toml
+.streamlit
