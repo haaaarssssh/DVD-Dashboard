@@ -1,0 +1,8 @@
+.venv
+hexbin_conditioned_fin
+hexbin_ratio_conditioned_density
+hexbin_ratio_conditioned_density (1)
+names.txt
+names2.txt
+.ipynb_checkpoints
+.streamlit/secrets.toml.
